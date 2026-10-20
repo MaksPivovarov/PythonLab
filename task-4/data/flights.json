@@ -1,0 +1,10 @@
+[
+    {
+        "number": "SU-101",
+        "destination": "?????? - ???????????",
+        "departure": "09:00",
+        "arrival": "14:30",
+        "seats": 180,
+        "booked": 0
+    }
+]
